@@ -1,5 +1,5 @@
 require 'core'
 require 'plugins'
 require 'plugins.load'
-require 'theme'
+require 'surface'
 require 'keymap'
