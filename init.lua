@@ -1,0 +1,5 @@
+require 'core'
+require 'plugins'
+require 'plugins.load'
+require 'theme'
+require 'keymap'
