@@ -3,8 +3,15 @@
 --
 
 require('tokyonight').setup({
-  transparent = true
+  transparent = false,
 });
+
+require('lualine').setup {
+	options = {
+		theme = 'tokyonight'
+	}
+}
+
 -- colorscheme tokyonight
 -- colorscheme tokyonight-night
 -- colorscheme tokyonight-storm
